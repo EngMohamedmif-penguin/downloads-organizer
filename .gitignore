@@ -1,0 +1,7 @@
+﻿__pycache__/
+*.pyc
+organizer.log
+config.json
+.env
+.vscode/
+.idea/
